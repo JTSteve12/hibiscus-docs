@@ -71,9 +71,9 @@ Each row in the table has action controls on the right side:
 | **Call** | Click the phone icon to initiate a call (opens your default dialer) |
 | **View Profile** | Click the three-dot menu → View Profile |
 | **Edit** | Click the three-dot menu → Edit (opens the Edit Employee drawer) |
-| **Delete Record** | Click the three-dot menu → Delete Record (requires confirmation) |
+| **Archive Employee** | Click the three-dot menu → Archive Employee (requires confirmation) |
 
-> **Warning:** Deleting an employee record is permanent and will remove them from all linked modules. For departing employees, use the termination workflow instead (see [Offboarding](./onboarding-offboarding.md)).
+> **Important:** Archiving an employee moves them to the Former Employees tab and removes them from active rosters, payroll, and reports. Their record stays in the database — Canadian ESA requires retention for 3 years after termination, so the platform does not offer permanent deletion from the admin UI. For proper offboarding (with ROE filing, final pay, etc.), use the termination workflow instead (see [Offboarding](./onboarding-offboarding.md)).
 
 ---
 

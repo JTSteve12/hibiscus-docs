@@ -16,6 +16,8 @@ This guide covers every module, every screen, and every action available in the 
 
 Hibiscus HR is an all-in-one HR platform designed specifically for Canadian businesses. Unlike US-first platforms that bolt on Canadian compliance as an afterthought, Hibiscus HR was built around Canadian employment law from day one — CPP, EI, ESA, ROE, PIPEDA, and provincial employment standards for all ten provinces.
 
+Hibiscus HR is also the only Canadian SMB HR platform with a **built-in AI handbook generator** — draft 15 province-aware policies, compile a signed employee handbook, and capture e-signature acknowledgements, all in one place.
+
 **Fully integrated modules:**
 
 **New to Hibiscus HR?** Start with the [Quick Start Guide](./quick-start.md) — get set up in under 15 minutes.
@@ -29,6 +31,7 @@ Hibiscus HR is an all-in-one HR platform designed specifically for Canadian busi
 | [Time & Attendance](./time-attendance.md) | Weekly timesheets, overtime tracking, approvals |
 | [Onboarding & Offboarding](./onboarding-offboarding.md) | Checklists, task assignment, ROE filing |
 | [Compliance](./compliance.md) | Document tracking, CRA calendar, ESA audit, incident management |
+| [AI Handbook & Policies](./handbook-policies.md) | AI-drafted Canadian HR policies, handbook PDF compilation, employee e-signature acknowledgement |
 | [Performance](./performance.md) | Review cycles, goal tracking, ratings |
 | [Benefits](./benefits.md) | Configurable plans, broker portal, enrollment CSV export |
 | [Employee Portal](./employee-portal.md) | The self-service experience for new hires and existing employees — onboarding wizard, pay stubs, leave requests, benefits, profile, documents |
@@ -60,9 +63,11 @@ Most instructions in this guide are written from the perspective of an HR Admin 
 
 ## Getting support
 
-- **Email:** hibiscushrmain@gmail.com
+- **Support email:** support@hibiscushr.ca
+- **Sales:** sales@hibiscushr.ca
+- **General inquiries:** info@hibiscushr.ca
 - **Website:** hibiscushr.ca
-- **In-app:** Use the feedback link in the bottom-left navigation sidebar
+- **In-app:** Use the help icon in the bottom-left of the admin app to submit a ticket directly
 
 ---
 

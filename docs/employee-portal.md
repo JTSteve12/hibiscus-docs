@@ -175,6 +175,32 @@ The employee can:
 
 Documents flagged as **Pending** appear in HR's Compliance Documents tab for review.
 
+### Handbook
+
+> **[Screenshot: Employee Handbook page with the content and the acknowledgement signature form at the bottom]**
+
+If your organization has compiled and published an Employee Handbook (see [AI Handbook & Policies](./handbook-policies.md)), it appears in the employee's sidebar as **Handbook**. This is where employees read the organization's official policies and record their acknowledgement that they have received and reviewed them.
+
+**What the employee sees:**
+
+- A top-of-page banner showing whether they have acknowledged the current handbook version
+  - **Amber banner** if they have NOT yet acknowledged: *"Please review and acknowledge below"*
+  - **Green banner** if they HAVE acknowledged: *"You acknowledged this handbook — signed as [name] on [date]"*
+- The full handbook content rendered inline, one policy section after another
+- If not yet acknowledged: a typed-name signature form at the bottom of the page
+
+**Signing the handbook:**
+
+1. Employee reads the content (scrolling through every policy section)
+2. Scrolls to the signature form at the bottom
+3. Types their full legal name (pre-filled from their profile — they can edit)
+4. Clicks **I Acknowledge**
+5. Submission is timestamped and stamped with their IP address; the confirmation appears immediately
+
+Once signed, the acknowledgement is permanent for that specific handbook version. If the organization compiles a new handbook version (e.g., v2 after a policy update), employees are prompted to acknowledge the new version the next time they visit the Handbook page.
+
+**What happens when there's no handbook:** if your organization has never published a handbook, the Handbook page shows: *"No handbook available yet — your employer hasn't published an employee handbook yet."*
+
 ---
 
 ## Signing Out and Coming Back

@@ -16,6 +16,7 @@ const sidebars = {
         'time-attendance',
         'onboarding-offboarding',
         'compliance',
+        'handbook-policies',
         'performance',
         'benefits',
         'reports',
